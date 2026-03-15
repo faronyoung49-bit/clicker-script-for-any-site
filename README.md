@@ -1,0 +1,1 @@
+# clicker-script-for-any-site
